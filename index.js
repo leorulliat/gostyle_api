@@ -9,6 +9,7 @@ var fs = require('fs');
  * 
  */
 app.get('/', (req, res) => {
+    console.log('hello?')
     // connexion à la base de donnée
     let mySqlClient = createConnection(mysql);
 
