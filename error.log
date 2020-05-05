@@ -1,0 +1,5 @@
+--------------------------------------------
+Error: connect ECONNREFUSED 127.0.0.1:3306
+--------------------------------------------
+Error: connect ECONNREFUSED 127.0.0.1:3306
+On request : CALL get_code_promo(98670694493061126);
